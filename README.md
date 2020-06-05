@@ -1,0 +1,2 @@
+# Random-Quran-Ayat-Generator
+MADE BY HTML CSS JAVASCRIPT JQURY AJEX
